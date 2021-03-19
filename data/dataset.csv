@@ -1,0 +1,57 @@
+﻿Direct/Indirect,Type,First Author,et al,Year,Datasets,Value,Lower,Upper,ArXiv
+Indirect,CMB with Planck,Pogosian,Y,2020,eBOSS+Planck,69.6,1.8,1.8,2009.08455
+Indirect,CMB with Planck,Aghanim,Y,2020,Planck18,67.27,0.6,0.6,1807.06209
+Indirect,CMB with Planck,Aghanim,Y,2020,Planck18+CMB lensing,67.36,0.54,0.54,1807.06209
+Indirect,CMB with Planck,Ade,Y,2016,Planck15,67.27,0.66,0.66,1502.01589
+Indirect,CMB without Planck,Aiola,Y,2020,ACT,67.9,1.5,1.5,2007.07288
+Indirect,CMB without Planck,Aiola,Y,2020,ACT+WMAP9,67.6,1.1,1.1,2007.07288
+Indirect,CMB without Planck,Zhang,Y,2019,WMAP+BAO,68.36,0.52,0.53,1812.01877
+Indirect,CMB without Planck,Henning,Y,2018,SPT,71.3,2.1,2.1,1707.09353
+Indirect,CMB without Planck,Hinshaw,Y,2013,WMAP9,70,2.2,2.2,1212.5226
+Indirect,No CMB; with BBN,D'Amico,Y,2020,BOSS DR12+BBN,68.5,2.2,2.2,1909.05271
+Indirect,No CMB; with BBN,Ivanov,Y,2020,BOSS+BBN,67.9,1.1,1.1,1909.05277
+Indirect,No CMB; with BBN,Alam,Y,2020,BOSS+eBOSS+BBN,67.35,0.97,0.97,2007.08991
+Indirect,Pl(k) + CMB lensing,Philcox,Y,2020,Pl(k)+CMB lensing,70.6,5,3.7,2008.08084
+Direct,Cepheids-SNIa,Riess,Y,2020,R20,73.2,1.3,1.3,2012.08534
+Direct,Cepheids-SNIa,Breuval,Y,2020,SNIa,72.8,2.7,2.7,2006.08763
+Direct,Cepheids-SNIa,Riess,Y,2019,R19,74,1.4,1.4,1903.07603
+Direct,Cepheids-SNIa,Camarena,Y,2019,SNIa,75.4,1.7,1.7,1906.11814
+Direct,Cepheids-SNIa,Burns,Y,2018,SNIa,73.2,2.3,2.3,1809.06381
+Direct,Cepheids-SNIa,Dhawan,Y,2017,NIR,72.8,3.1,3.1,1707.00715
+Direct,Cepheids-SNIa,Follin,Y,2017,SNIa,73.3,1.7,1.7,1707.01175
+Direct,Cepheids-SNIa,Feeney,Y,2017,SNIa,73.2,1.8,1.8,1707.00007
+Direct,Cepheids-SNIa,Riess,Y,2016,R16,73.2,1.7,1.7,1604.01424
+Direct,Cepheids-SNIa,Cardona,Y,2016,HPs,73.8,2.1,2.1,1611.06088
+Direct,Cepheids-SNIa,Freedman,Y,2012,SNIa,74.3,2.1,2.1,2012ApJ
+Direct,TRGB-SNIa,Soltis,Y,2020,SNIa,72.1,2,2,2012.09196
+Direct,TRGB-SNIa,Freedman,Y,2020,SNIa,69.6,1.9,1.9,2002.0155
+Direct,TRGB-SNIa,Reid,Y,2019,SH0ES,71.1,1.9,1.9,1908.05625
+Direct,TRGB-SNIa,Freedman,Y,2019,SNIa,69.8,1.9,1.9,1907.05922
+Direct,TRGB-SNIa,Yuan,Y,2019,SNIa,72.4,2,2,1908.00993
+Direct,TRGB-SNIa,Jang,Y,2017,SNIa,71.2,2.5,2.5,1702.01118
+Direct,Miras-SNIa,Huang,Y,2019,SNIa,73.3,4,4,1908.10883
+Direct,Masers,Pesce,Y,2020,Masers,73.9,3,3,2001.09213
+Direct,Tully-Fisher Relation,Kourkchi,Y,2020,TFR,76,2.6,2.6,2004.14499
+Direct,Tully-Fisher Relation,Schombert,Y,2020,TFR,75.1,2.8,2.8,2006.08615
+Direct,Surface Brightness Fluctuations,Blakeslee,Y,2021,SBF,73.3,2.5,2.5,2101.02221
+Direct,Surface Brightness Fluctuations,Khetan,Y,2020,SBF,71.1,4.1,4.1,2008.07754
+Direct,SNII,de Jaeger,Y,2020,SNII,75.8,4.9,5.2,2006.03412
+Direct,HII galaxies,Fernandez Arenas,Y,2018,HII,71,3.5,3.5,1710.05951
+Direct,Lensing related; mass model-dependent,Denzel,Y,2021,Lensing,71.8,3.3,3.9,2007.14398
+Direct,Lensing related; mass model-dependent,Birrer,Y,2020,TDCOSMO+SLACS,67.4,3.2,4.1,2007.02941
+Direct,Lensing related; mass model-dependent,Birrer,Y,2020,TDCOSMO,74.5,6.1,5.6,2007.02941
+Direct,Lensing related; mass model-dependent,Millon,Y,2020,TDCOSMO,74.2,1.6,1.6,1912.08027
+Direct,Lensing related; mass model-dependent,Baxter,Y,2020,Lensing,73.5,5.3,5.3,2007.04007
+Direct,Lensing related; mass model-dependent,Qi,Y,2020,Lensing,73.6,1.6,1.8,2011.00713
+Direct,Lensing related; mass model-dependent,Liao,Y,2020,Lensing,72.8,1.7,1.6,2002.10605
+Direct,Lensing related; mass model-dependent,Liao,Y,2019,Lensing,72.2,2.1,2.1,1908.04967
+Direct,Lensing related; mass model-dependent,Shajib,Y,2019,STRIDES,74.2,3,2.7,1910.06306
+Direct,Lensing related; mass model-dependent,Wong,Y,2019,H0LiCOW,73.3,1.8,1.7,1907.04869
+Direct,Lensing related; mass model-dependent,Birrer,Y,2018,H0LiCOW,72.5,2.3,2.1,1809.01274
+Direct,Lensing related; mass model-dependent,Bonvin,Y,2016,H0LiCOW,71.9,3,2.4,1607.0179
+Direct,Optimistic average,Di Valentino,Y,2021,Optimistic,72.94,0.75,0.75,2011.00246
+Direct,Ultra-conservative; no cepheids; no lensing,Di Valentino,Y,2021,Conservative,72.7,1.1,1.1,2011.00246
+Direct,GW related,Gayathri,Y,2020,GW170817,73.4,10.7,6.9,2009.14247
+Direct,GW related,Mukherjee,Y,2020,GW170817,67.6,4.2,4.3,2009.14199
+Direct,GW related,Mukherjee,Y,2019,GW170817,68.3,4.5,4.6,1909.08627
+Direct,GW related,Abbott,Y,2017,GW170817,70,8,12,1710.05835
