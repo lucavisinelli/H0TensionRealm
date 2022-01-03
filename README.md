@@ -43,10 +43,9 @@ If you use this code, please cite the associated paper:
 
 ### Latex (EU) entry
 
-\bibitem{DiValentino:2021izs}
-E.~Di Valentino, O.~Mena, S.~Pan, L.~Visinelli, W.~Yang, A.~Melchiorri, D.~F.~Mota,  A.~G.~Riess, J.~Silk,
-\href{https://iopscience.iop.org/article/10.1088/1361-6382/ac086d}{Class. Quant. Grav. {\bf 38} 15, 153001 (2021)},
-[\href{http://arxiv.org/abs/2103.01183}{arXiv:2103.01183 [astro-ph.CO]}].
+     \bibitem{DiValentino:2021izs}
+     E.~Di Valentino, O.~Mena, S.~Pan, L.~Visinelli, W.~Yang, A.~Melchiorri, D.~F.~Mota,  A.~G.~Riess, J.~Silk,
+     Class. Quant. Grav. {\bf 38} 15, 153001 (2021), arXiv:2103.01183 [astro-ph.CO].
 
 ### Authors & Contact
 
