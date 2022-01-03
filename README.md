@@ -28,20 +28,18 @@ If you use this code, please cite the associated paper:
 
 ### Bibtex entry
 
-@article{DiValentino:2021izs,
+    @article{DiValentino:2021izs,
     author = "Di Valentino, Eleonora and Mena, Olga and Pan, Supriya and Visinelli, Luca and Yang, Weiqiang and Melchiorri, Alessandro and Mota, David F. and Riess, Adam G. and Silk, Joseph",
     title = "{In the realm of the Hubble tension\textemdash{}a review of solutions}",
     eprint = "2103.01183",
     archivePrefix = "arXiv",
     primaryClass = "astro-ph.CO",
-    reportNumber = "IPPP/20/108",
     doi = "10.1088/1361-6382/ac086d",
     journal = "Class. Quant. Grav.",
     volume = "38",
     number = "15",
     pages = "153001",
-    year = "2021"
-}
+    year = "2021"}
 
 ### Latex (EU) entry
 
